@@ -19,7 +19,7 @@ for line in sys.stdin:
             else:
                 print("F")
         else:
-        # Handling the case of Invalid Input 
+         # Handling the case of Invalid Input 
             print("Invalid Input")
     except:
         print("Invalid Input")
